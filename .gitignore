@@ -1,0 +1,7 @@
+/node_modules
+.eslintcache
+.serverless/
+.vscode/
+/skeletons
+.env
+/vendor
